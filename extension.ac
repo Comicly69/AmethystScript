@@ -1,0 +1,11 @@
+//Comicly March 27 2022
+
+get https://github.com/Comicly69/AmethystScript
+Import extension
+
+{
+  if filename(0) contain (ac)
+      accept term
+                  
+                  }
+get lang
